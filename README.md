@@ -1,6 +1,6 @@
 # Masonry: A Masonry Grid WordPress Theme for Thoughts of All Sorts
 
-<kbd>![alt text](https://kurtcms.org/git/masonry/masonry-screenshot.png)</kbd>
+<kbd>![alt text](https://github.com/kurtcms/masonry/blob/master/screenshot.png)</kbd>
 
 Theme Name: Masonry  
 Theme URI: https://github.com/kurtcms/masonry  
