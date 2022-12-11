@@ -19,6 +19,7 @@ Masonry WordPress Theme, (C) 2021 Kurt, Cheung Mun See
 Masonry is distributed under the terms of the GNU GPL.
 
 ## Installation
+
 1. Download this repository as a ZIP;
 2. Login to your WordPress Admin dashboard and navigate to 'Themes' under 'Appearance';
 3. Choose 'Add New' and then 'Upload Theme'; and
