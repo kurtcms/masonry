@@ -15,8 +15,8 @@ License URI: LICENSE
 Text Domain: masonry  
 Tags: grid-layout, left-sidebar, custom-menu, custom-logo, featured-images, sticky-post, threaded-comments, translation-ready
 
-Masonry WordPress Theme, (C) 2021 Kurt, Cheung Mun See  
-Masonry is distributed under the terms of the GNU GPL.
+Masonry WordPress Theme, (C) 2021 Kurt, Cheung Mun See/  
+Masonry is distributed under the terms of the GNU GPL
 
 ## Installation
 
